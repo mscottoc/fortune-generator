@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 
 public class manage {
+    // reads a file as a string and returns the file
     public static String readFile(String fileName){
         String data = new String();
         try{
@@ -22,6 +23,7 @@ public class manage {
         return data;
     }
 
+    // reads a file in JSON format then parses it into a JSON object
     public static JSONObject jsonFileConvert(String fileName){
         JSONParser jsonParser = new JSONParser();
         JSONObject jsonObject = new JSONObject(); 
@@ -34,14 +36,4 @@ public class manage {
         }
         return jsonObject;
     }
-    /*
-    public static JSONObject parse(String jsonData){
-        JSONParser jsonParser = new JSONParser();
-        JSONObject jsonObject = new JSONObject();
-        try {
-            jsonObject = (JSONObject) jsonParser.parse(jsonData)
-        } catch (Exception e) {
-            // TODO: handle exception
-        }
-    }*/
 }
