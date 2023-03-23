@@ -1,0 +1,103 @@
+{
+  "fire": {
+    "positive": [
+      "courageous",
+      "charismatic",
+      "optimistic",
+      "creative",
+      "spontaneous",
+      "determined",
+      "radiant",
+      "inspiring",
+      "empowering"
+    ],
+    "negative": [
+      "impulsive",
+      "arrogant",
+      "reckless",
+      "overbearing",
+      "self-centered"
+    ],
+    "challenge": [
+      "Act without thinking",
+      "Lose your cool in heated situations",
+      "Unwilling to compromise"
+    ]
+  },
+  "earth": {
+    "positive": [
+      "dependable",
+      "loyal",
+      "responsible",
+      "organized",
+      "resourceful",
+      "pragmatic",
+      "harmonious",
+      "serene",
+      "stable",
+      "divine"
+    ],
+    "negative": [
+      "stubborn",
+      "inflexible",
+      "pessimistic",
+      "materialistic",
+      "narrow-minded"
+    ],
+    "challenge": [
+      "struggle with making decisions",
+      "appear aloof or unemotional",
+      "analyze situations too much and become anxious"
+    ]
+  },
+  "air": {
+    "positive": [
+      "analytical",
+      "rational",
+      "objective",
+      "diplomatic",
+      "open-minded",
+      "friendly",
+      "optimistic",
+      "positive",
+      "inspiring"
+    ],
+    "negative": [
+      "aloof",
+      "detached",
+      "superficial",
+      "indecisive",
+      "unreliable"
+    ],
+    "challenge": [
+      "unwilling to change your mind or try new things",
+      "focus too much on flaws or imperfections",
+      "prioritize possessions over experiences"
+    ]
+  },
+  "water": {
+    "positive": [
+      "empathetic",
+      "intuitive",
+      "sensitive",
+      "compassionate",
+      "nurturing",
+      "heartwarming",
+      "enchanting",
+      "hopeful",
+      "inspiring"
+    ],
+    "negative": [
+      "moody",
+      "overemotional",
+      "indecisive",
+      "manipulative",
+      "vindictive"
+    ],
+    "challenge": [
+      "react strongly to situations and struggle to control your feelings",
+      "feel hurt by even minor criticisms or rejections",
+      "struggle with making important decisions due to being overwhelmed by emotions"
+    ]
+  }
+}
